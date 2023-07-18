@@ -1,0 +1,7 @@
+{
+  "type": "module",
+  "dependencies": {
+    "@aws-sdk/client-lex-runtime-v2": "^3.369.0",
+    "node-fetch": "^3.3.1"
+  }
+}
